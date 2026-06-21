@@ -28,7 +28,7 @@ python main.py
 ```
 
 2. Follow the interactive prompts. Input `0` to stop each loop of numeric entries.
-   # enter the data one by one
+    enter the data one by one
 Example (interactive flow shortened):
 - Enter sales values (enter 0 when done): 1000, 500, 0
 - Any sales returns? (yes=1 or no=0): 0
